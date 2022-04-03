@@ -1,0 +1,98 @@
+<style type="text/css">
+	.dash li a:hover{
+		border-bottom: 1px white solid !important; width: 100%; color:white; font-size: 16px;
+	}
+	.dash li a{
+		color: black; font-size: 15px; padding-top: 15px;
+	}
+	.dash li:first-child a:hover{
+		border-bottom: 1px white solid !important; border-top: 0; width: 100%;
+	}
+	.dash li:last-child a{
+		border-bottom: 0; border-top: 0; width: 100%;
+	}
+	.dash li a{
+		text-align: center; border-bottom: 1px grey solid;
+	}
+	.dash:hover{
+		border-radius: 8px !important; background-color: #6A7BA8 !important;
+	}
+	.dash{
+		box-shadow: 2px 3px 10px 0 #000010; background-color: #758AC2; border-radius: 8px;
+	}
+	.dash:hover li a{
+		border-bottom: 1px brown solid;
+	}
+	.dash:hover li:last-child a{
+		border-bottom: 0;
+	}
+
+	/*  dash2 */
+	.dash2 li a:hover{
+		border-bottom: 1px white solid !important; width: 100%; color:white; font-size: 16px;
+	}
+	.dash2 li a{
+		color: black; font-size: 15px; padding-top: 15px;
+	}
+	.dash2 li:first-child a:hover{
+		border-bottom: 1px white solid !important; border-top: 0; width: 100%;
+	}
+	.dash2 li:last-child a{
+		border-bottom: 0; border-top: 0; width: 100%;
+	}
+	.dash2 li a{
+		text-align: center; border-bottom: 1px grey solid;
+	}
+	.dash2:hover{
+		border-radius: 8px !important; background-color: #662E5E !important;
+	}
+	.dash2{
+		box-shadow: 2px 3px 10px 0 #000010; background-color: #7C3B72; border-radius: 8px; border-color: none;
+	}
+	.dash2:hover li a{
+		border-bottom: 1px brown solid;
+	}
+	.dash2:hover li:last-child a{
+		border-bottom: 0;
+	}
+
+	/*  dash1  */
+	.dash1 li a:hover{
+		border-bottom: 1px white solid !important; width: 100%; color:white; font-size: 16px;
+	}
+	.dash1 li a{
+		color: black; font-size: 15px; padding-top: 15px;
+	}
+	.dash1 li:first-child a:hover{
+		border-bottom: 1px white solid !important; border-top: 0; width: 100%;
+	}
+	.dash1 li:last-child a{
+		border-bottom: 0; border-top: 0; width: 100%;
+	}
+	.dash1 li a{
+		text-align: center; border-bottom: 1px grey solid;
+	}
+	.dash1:hover{
+		border-radius: 8px !important; background-color: #17502B !important;/*background-image: linear-gradient(to right, #314C94 , #2F7349) !important;*//*background-image: linear-gradient(to right, ##5A926E, #789B85)  !important;*/
+	}
+	.dash1{
+		box-shadow: 2px 3px 10px 0 #000010; background-color: #2F7349; border-radius: 8px; border-color: none;
+	}
+	.dash1:hover li a{
+		border-bottom: 1px brown solid;
+	}
+	.dash1:hover li:last-child a{
+		border-bottom: 0;
+	}
+	ul li:last-child{
+		margin-bottom: 5px;
+	}
+
+	.iconn {
+		color:silver;
+	}
+
+	.iconn:hover{
+		color:white !important;
+	}
+</style>
